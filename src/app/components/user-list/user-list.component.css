@@ -1,0 +1,14 @@
+.badge {
+  font-size: 0.85em;
+  padding: 0.35em 0.65em;
+}
+
+.table-responsive {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  border-radius: 0.25rem;
+}
+
+.btn-sm {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+}
